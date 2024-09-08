@@ -1,5 +1,7 @@
 # Animated-Retro-website
 
+https://portfoliochronicle.netlify.app/
+
 # Tech Stack 
   HTML 
 
